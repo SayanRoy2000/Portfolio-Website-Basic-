@@ -1,0 +1,206 @@
+/*Header*/
+#header{
+    height: 54px;
+    width: 100.8%;
+    background-color: #896c1d;
+    margin: -8px -8px;
+}
+#header ul{
+    float: left;
+    list-style: none;
+    margin-top: 1px;
+    width: 40%;
+}
+#header h1{
+    font-size: 23px;
+    color: beige;
+    float: left;
+    margin-right: 34%;
+    margin-left: 4%;
+    margin-top: 13px;
+}
+#header li{
+    float: left;
+    margin-right: 10%;
+    margin-top: 17px;
+    font-weight: 700;
+}
+#header a{
+    color: beige;
+}
+#header li:hover >a{
+    color: #623fe0;
+}
+/*About*/
+#introduction
+{
+    height: 713px;
+    width: 100.9%;
+    margin: -29px -7px -1px -8px;
+    background: gray;
+}
+#img1{
+    float: left;
+    object-fit: cover;
+    width: 32%;
+    margin-top: -101px;
+    margin-left: -16px;
+    opacity: 0.9;
+}
+#about_container{
+    text-align: left;
+    color: beige;
+    width: 40%;
+    height: 619px;
+    margin-left: 833px;
+}
+#about_container a{
+    text-decoration: none;
+    color: beige;
+}
+#about_container h1{
+    padding-top: 162px;
+    margin-bottom: 91px;
+    font-size: 44px;
+    border-bottom: 2px solid blue;
+    width: 190px;
+    margin-left: 289px;
+}
+#about_container h2{
+    font-size: 18px;
+    width: 343px;
+    margin-bottom: 37px;
+}
+#about_container p{
+    line-height: 1.6;
+    font-size: 17px;
+}
+/*projects*/
+#img2{
+    float: right;
+    margin-right: 12%;
+    width: 22%;
+    margin-top: -515px;
+    opacity: 0.9;
+}
+#projects{
+    height: 661px;
+    background: burlywood;
+    margin: -30px -8px 0px -8px;
+}
+#projects h1{
+    font-size: 44px;
+    padding-top: 99px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #38e5cd;
+    width: 156px;
+    margin-left: 20%;
+    margin-bottom: 35px;
+}
+#projects ul{
+    margin-left: 18%;
+    font-size: 22px;
+}
+#projects li{
+    margin-bottom: 41px;
+}
+a{
+    text-decoration: none;
+}
+/*achievement*/
+#achievements{
+    background: #e3a791;
+    width: 100.9%;
+    margin: -29px 0px 0px -9px;
+    height: 616px;
+}
+#img3{
+    margin-top: -348px;
+    width: 32%;
+    float: left;
+    margin-left: 94px;
+}
+#achievements h1{
+    margin-left: 51%;
+    font-size: 44px;
+    padding-top: 99px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #ab1717;
+    width: 261px;
+    margin-bottom: 73px;
+}
+#achievements ul{
+    margin-left: 50%;
+    font-size: 22px;
+}
+#achievements li{
+    margin-bottom: 82px;
+}
+/*contact*/
+#contact{
+    height: 991px;
+    background: #8a97d9;
+    margin: -30px -8px 0px -8px;
+}
+#contact_form{
+    margin: auto;
+    width: 48%;
+    height: 628px;
+    padding-top: 27px;
+    background: #8ab4d9;
+}
+.form_input{
+    color: #835889;
+    border: none;
+    outline: none;
+    background: #265b9d47;
+    border-bottom: solid 2px #624915;
+    width: 50%;
+    padding: 9px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 209px;
+    margin-top: 32px;
+}
+#contact h1{
+    margin-left: 45.5%;
+    font-size: 44px;
+    padding-top: 99px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #107c27;
+    width: 150px;
+    margin-bottom: 73px;
+}
+#contact button{
+    margin-left: 65%;
+    padding: 7px 20px;
+    border-radius: 6px;
+    font-size: 14px;
+    background: #153a5a;
+    margin-top: 32px;
+    color: beige;
+}
+/*footer*/
+.social_icons{
+    font-size: 1.5em;
+    margin-left: 80px;
+    color: #bbbb55;
+}
+#top{
+    height: 43px;
+    margin-top: -34px;
+    font-size: 12px;
+    float: right;
+}
+#top h1{
+    margin: 0px 50px 0px 0px;
+}
+#footer{
+    margin: 0px -9px -8px -8px;
+    background: #212e0d;
+    height: 36px;
+    padding-top: 8px;
+}
+#footer a{
+    color: #bbbb55;
+}
